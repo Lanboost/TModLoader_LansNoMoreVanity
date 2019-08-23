@@ -15,8 +15,6 @@ namespace NoMoreVanity
             if (item.vanity)
             {
 
-                WorldGen.EmptyTileCheck
-
                 return false;
             }
 
