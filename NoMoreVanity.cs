@@ -1,6 +1,6 @@
 using Terraria.ModLoader;
 
-namespace NoMoreVanity
+namespace LansNoMoreVanity
 {
 	public class NoMoreVanity : Mod
 	{

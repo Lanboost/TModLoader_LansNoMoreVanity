@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Terraria;
 using Terraria.ModLoader;
 
-namespace NoMoreVanity
+namespace LansNoMoreVanity
 {
     class NoMoreVanityGlobalItem : GlobalItem
     {
