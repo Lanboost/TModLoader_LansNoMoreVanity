@@ -1,1 +1,6 @@
 Removes all vanity from inventory on pickup, no more inventory clutter!
+
+Changelog:
+
+V 2022.07.06:
+	- Updated to latest tModloader version
