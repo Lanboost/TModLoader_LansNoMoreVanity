@@ -12,9 +12,8 @@ namespace LansNoMoreVanity
     {
         public override bool OnPickup(Item item, Player player)
         {
-            if (item.vanity)
+            if (item.vanity && item.createTile == -1)
             {
-
                 return false;
             }
 

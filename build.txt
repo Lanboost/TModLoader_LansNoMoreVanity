@@ -1,6 +1,6 @@
 displayName = Lan's No More Vanity
 author = Lanboost
-version = 2023.08.01.1
+version = 2023.10.09.1
 includePDB = true
 includeSource = true
 homepage = https://github.com/Lanboost/TModLoader_LansNoMoreVanity
